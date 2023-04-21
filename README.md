@@ -1,4 +1,4 @@
-# Mechanics-
+# Mechanics (Work In Progress)
 Carries out functions popularly used in Newtonian Mechanics.
 
 Kinematic Equations 
